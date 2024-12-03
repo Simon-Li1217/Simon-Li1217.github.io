@@ -43,6 +43,7 @@ I am actively seeking **research assistant** and **PhD** opportunities to furthe
 
 # Honor
 
+- "Huawei Cup" the 21st China Graduate Mathematical Modeling Competition, the third prize
 - The Second Award of Graduate Study Scholarship in the Collage of Intelligence and Computing, Tianjin University
 - Outstanding Graduate of **Liaoning Province**
 - Hisense Scholarship for Undergraduates
