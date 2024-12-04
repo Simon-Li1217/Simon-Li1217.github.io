@@ -48,4 +48,3 @@ I am actively seeking **research assistant** and **PhD** opportunities to furthe
 - Outstanding Graduate of **Liaoning Province** (2/119)
 - Hisense Scholarship for Undergraduates
 - Excellent Student Scholarships in Dalian University of Technology **(10 in total)**
-- Merit Student of Dalian University of Technology
