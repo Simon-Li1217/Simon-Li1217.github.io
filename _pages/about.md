@@ -12,7 +12,7 @@ redirect_from:
 
 I am currently a second-year master's student at the [TJU Smart IoT Laboratory](https://smartiotlab.net/Home), advised by Prof.  [Tie Qiu](https://smartiotlab.net/Team). My current research focuses on the robust optimization of IoT topologies in smart cities. Currently, I have one conference paper and one journal paper under submission.
 
-My research interests primarily focus on *graph data mining**, **graph-based decision models**, and **social network analysis**. I am passionate about exploring the essence of the world within vast amounts of data. I am highly self-motivated and deeply enthusiastic about research in artificial intelligence and data science.
+My research interests primarily focus on *graph data mining**, **graph-based optimization tasks**, and **social network analysis**. I am passionate about exploring the essence of the world within vast amounts of data. I am highly self-motivated and deeply enthusiastic about research in artificial intelligence and data science.
 
 I am actively seeking **research assistant** and **PhD** opportunities to further my academic journey. For more details, please refer to my resume. Feel free to reach out to me at lijiqiao@tju.edu.cn & jasql1217@gmail.com, or on WeChat (ID: L937597275).
 
@@ -38,7 +38,7 @@ I am actively seeking **research assistant** and **PhD** opportunities to furthe
   * **Department:** Industrial Internet Research Institute.
   * **Research Direction:** Industrial Data Governance Platform.
 
-- **CSCWD 2024：** Host volunteer.
+- **CSCWD 2024：** host volunteer.
 - **SmartIoT：** reviewer.
 
 # Honor
