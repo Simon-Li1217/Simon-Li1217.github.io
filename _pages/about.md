@@ -43,7 +43,7 @@ I am passionate about back-end development and system architecture design. With 
 
 # Work Experience
 
-- **H3C (新华三技术有限公司) – Research Assistant**  
+- **H3C (新华三技术有限公司) – Java Development Intern**  
   *Aug 2022 – Jan 2023*  
   Department: Industrial Internet Research Institute  
   Research Focus: Industrial Data Governance Platform, contributing to the development of digital solutions for over 30 government and enterprise clients.
