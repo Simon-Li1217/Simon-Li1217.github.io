@@ -32,7 +32,9 @@ I am passionate about back-end development and system architecture design. With 
 
 - **Diffusion Meets IoT Topology: Leveraging Noise Injection and Edge Decoding for Robust Networks** *(Under submission to GLOBECOM 2025, CCF-C)*  
   An extension of our previous work, presenting an innovative strategy to improve the resilience of IoT networks.
-
+- **YOLO-DFT: An object detection method based on cloud datafusion and transfer learning for power system equipment maintenance** *(Accepted by IET Collaborative Intelligent Manufacturing 2024)* 
+  In this paper, we propose an object detection method for power system equipment maintenance based on cloud data fusion and transfer learning, which achieves high accuracy.
+  
 # Teaching
 
 - **Teaching Assistant, High Computational Method Course**  
