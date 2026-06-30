@@ -9,56 +9,53 @@ redirect_from:
 
 {% include base_path %}
 
+Jiqiao Li — SRE Infrastructure Engineer at ByteDance/TikTok. Interested in system architecture, architecture stability, high-performance system design, and Agent architecture design.
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.E., College of Intelligence and Computing, Tianjin University, 2026
+  * Research on robust optimization of IoT topologies (advisor: Prof. Tie Qiu)
+  * First-author publication in IEEE/ACM Transactions on Networking (CCF-A)
+* B.Eng. in Software Engineering, Dalian University of Technology (DUT), 2023
+  * Outstanding Graduate of Liaoning Province (Top 1.5%)
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Mar 2026 – present: SRE Infrastructure Engineer
+  * ByteDance · TikTok Pan-Architecture · Stability
+  * DiagPartner: an SRE incident-response assistant helping GOC responders rapidly align on incident impact and progress.
+  * Riskhub: a proactive inspection system for major infrastructure risks, with automated monitoring and statistical reporting to surface latent risks and reduce incident rates.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jul 2025 – Sep 2025: Intern
+  * Huawei · ICT Data Communication Product Line · Data Communication Solutions Dept.
+  * Agent development.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Aug 2022 – Jan 2023: Java Development Intern
+  * H3C (新华三技术有限公司), Industrial Internet Research Institute
+  * Industrial Data Governance Platform serving 30+ government and enterprise clients.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* System architecture & high-performance system design
+* Site Reliability Engineering (SRE), stability & risk inspection infrastructure
+* Agent architecture design
+* Backend development (Java)
+* Machine learning / diffusion models for graph & topology optimization
 
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+* Teaching Assistant, Advanced Computational Methods — Tianjin University, Fall 2023
+* Teaching Assistant, C++ Programming — Dalian University of Technology, Spring 2023
+
+Service & Honors
 ======
-* Currently signed in to 43 different slack teams
+* Service: Host Volunteer (CSCWD 2024); Reviewer (SmartIoT 2023)
+* Third Prize, "Huawei Cup" 21st China Graduate Mathematical Modeling Competition
+* Outstanding Graduate of Liaoning Province (Rank 2/119)
+* Hisense Scholarship; multiple Excellent Student Scholarships (DUT)

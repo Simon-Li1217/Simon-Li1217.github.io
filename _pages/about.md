@@ -10,57 +10,62 @@ redirect_from:
 
 
 
-I am currently a second-year master's student at the [TJU Smart IoT Laboratory](https://smartiotlab.net/Home), advised by Prof. [Tie Qiu](https://smartiotlab.net/Team). My research focuses on the robust optimization of IoT topologies in smart cities, aiming to enhance the reliability and efficiency of urban IoT networks. I currently have one conference paper and one journal paper under submission.
+I am an SRE Infrastructure Engineer at **ByteDance / TikTok** (Pan-Architecture · Stability), where I build infrastructure that keeps large-scale systems reliable. I received my Master's degree from [Tianjin University](https://smartiotlab.net/Home) in June 2026, where I was advised by Prof. [Tie Qiu](https://smartiotlab.net/Team) at the TJU Smart IoT Laboratory. During my studies my research focused on the robust optimization of IoT topologies, and I published as first author in IEEE/ACM Transactions on Networking (CCF-A).
 
-I am passionate about back-end development and system architecture design. With a solid programming foundation and extensive practical experience in projects, I continuously keep pace with cutting-edge technologies such as machine learning and AIGC. I am actively seeking **summer internship** opportunities. For more details, please refer to my resume. Feel free to reach out to me at [lijiqiao@tju.edu.cn](mailto:lijiqiao@tju.edu.cn) or [jasql1217@gmail.com](mailto:jasql1217@gmail.com), or connect with me on WeChat (ID: L937597275).
-
-
-# Education
-
-- **Master’s Candidate, College of Intelligence and Computing, Tianjin University**  
-  *09.2023 - present*  
-  Pursuing advanced studies with a focus on robust IoT optimization and intelligent system design.
-
-- **Bachelor of Engineering, School of Software, Dalian University of Technology (DUT)**  
-  *09.2019 - 06.2023*  
-  Graduated with honors, recognized as an Outstanding Graduate of Liaoning Province (Top 1.5%), and recipient of multiple scholarships.
-
-# Publications
-
-- **Graph Diffusion Model for IoT Topology Optimization** *(Under submission to TON, CCF-A)*  
-  This paper explores the application of graph diffusion models to enhance the robustness of IoT network topologies, with Prof. Tie Qiu as the first author and myself as the second author.
-
-- **Diffusion Meets IoT Topology: Leveraging Noise Injection and Edge Decoding for Robust Networks** *(Under submission to GLOBECOM 2025, CCF-C)*  
-  An extension of our previous work, presenting an innovative strategy to improve the resilience of IoT networks.
-  
-- **YOLO-DFT: An object detection method based on cloud datafusion and transfer learning for power system equipment maintenance** *(Accepted by IET Collaborative Intelligent Manufacturing 2024)* 
-  In this paper, we propose an object detection method for power system equipment maintenance based on cloud data fusion and transfer learning, which achieves high accuracy.
-  
-# Teaching
-
-- **Teaching Assistant, High Computational Method Course**  
-  College of Intelligence and Computing, Tianjin University, Fall 2023
-
-- **Teaching Assistant, C++ Programming**  
-  Shenyang Software Technology University (SSDUT), Spring 2023
+My current interests center on **system architecture, architecture stability, high-performance system design, and Agent architecture design**. I enjoy turning hard reliability problems into clean, scalable infrastructure. I'm currently working at TikTok and always happy to connect and exchange ideas — feel free to reach out at [jasql1217@gmail.com](mailto:jasql1217@gmail.com) or on GitHub [@Simon-Li1217](https://github.com/Simon-Li1217).
 
 # Work Experience
 
-- **H3C (新华三技术有限公司) – Java Development Intern**  
+- **ByteDance · TikTok Pan-Architecture · Stability — SRE Infrastructure Engineer**  
+  *Mar 2026 – present · Beijing, China*  
+  - **DiagPartner** — an SRE incident-response assistant that helps GOC responders rapidly align on incident impact and progress during emergencies.
+  - **Riskhub** — a proactive inspection system for major risks across TikTok infrastructure, supporting automated monitoring and statistical reporting to surface latent risks and reduce incident rates.
+
+- **Huawei · ICT Data Communication Product Line — Data Communication Solutions Dept. (Intern)**  
+  *Jul 2025 – Sep 2025*  
+  Worked on Agent development within the data communication solutions team.
+
+- **H3C (新华三技术有限公司) — Java Development Intern**  
   *Aug 2022 – Jan 2023*  
-  Department: Industrial Internet Research Institute  
-  Research Focus: Industrial Data Governance Platform, contributing to the development of digital solutions for over 30 government and enterprise clients.
+  Industrial Internet Research Institute. Contributed to an Industrial Data Governance Platform delivering digital solutions for 30+ government and enterprise clients.
 
-- **CSCWD 2024** – Host Volunteer
+# Education
 
-- **SmartIoT 2023** – Reviewer
+- **M.E., College of Intelligence and Computing, Tianjin University**  
+  *Sep 2023 – Jun 2026*  
+  Research on robust optimization of IoT topologies; first-author publication in IEEE/ACM Transactions on Networking (CCF-A).
+
+- **B.Eng., School of Software, Dalian University of Technology (DUT)**  
+  *Sep 2019 – Jun 2023*  
+  Graduated with honors as an Outstanding Graduate of Liaoning Province (Top 1.5%); recipient of multiple scholarships.
+
+# Publications
+
+- **DIFF-TRO: A Self-supervised Diffusion Framework for IoT Topology Robustness Optimization**  
+  Jiqiao Li, Ning Chen, Xiaobo Zhou, Tie Qiu.  
+  *IEEE/ACM Transactions on Networking (ToN), 2026* — **CCF-A**. ([PDF](/files/diff-tro-ton2026.pdf))
+
+- **Self-Supervised Diffusion for Topology Robustness Optimization in Internet of Things**  
+  Jiqiao Li, Songwei Zhang, Xiaoshi Song, Xiaobo Zhou, Tie Qiu.  
+  *IEEE CSCWD 2026* — **CCF-C**. ([PDF](/files/cscwd2026.pdf))
+
+- **YOLO-DFT: An object detection method based on cloud data fusion and transfer learning for power system equipment maintenance**  
+  *IET Collaborative Intelligent Manufacturing, 2024.*
+
+# Teaching
+
+- **Teaching Assistant, Advanced Computational Methods** — College of Intelligence and Computing, Tianjin University, Fall 2023
+- **Teaching Assistant, C++ Programming** — School of Software, Dalian University of Technology, Spring 2023
+
+# Service
+
+- **CSCWD 2024** — Host Volunteer
+- **SmartIoT 2023** — Reviewer
 
 # Honors
 
-- **Third Prize**, "Huawei Cup" 21st China Graduate Mathematical Modeling Competition  
-- **Second Award**, Graduate Study Scholarship, College of Intelligence and Computing, Tianjin University  
-- **Outstanding Graduate** of Liaoning Province (Rank 2/119)  
-- **Hisense Scholarship** for Undergraduates  
-- **Excellent Student Scholarships** (10 in total) at Dalian University of Technology
-
-Feel free to explore more about my work and contact me for collaboration or internship opportunities!
+- **Third Prize**, "Huawei Cup" 21st China Graduate Mathematical Modeling Competition
+- **Second Award**, Graduate Study Scholarship, College of Intelligence and Computing, Tianjin University
+- **Outstanding Graduate** of Liaoning Province (Rank 2/119)
+- **Hisense Scholarship** for Undergraduates
+- **Excellent Student Scholarships** (10 in total), Dalian University of Technology
