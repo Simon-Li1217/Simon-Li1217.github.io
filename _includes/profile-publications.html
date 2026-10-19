@@ -1,0 +1,14 @@
+<div class="papers">
+  {% for post in site.publications reversed %}
+  <article class="paper{% if forloop.first %} paper-featured{% endif %}">
+    <div class="paper-index" aria-hidden="true">0{{ forloop.index }}</div>
+    <div class="paper-content">
+      <div class="paper-meta"><span>{{ post.venue_short }}</span><span>{{ post.date | date: '%Y' }}</span>{% if post.first_author %}<span class="paper-badge">First author</span>{% endif %}</div>
+      <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+      <p class="paper-authors">{{ post.authors | replace: 'Jiqiao Li', '<strong>Jiqiao Li</strong>' }}</p>
+      <p class="paper-venue">{{ post.venue }}{% if post.publication_details %} · {{ post.publication_details }}{% endif %}</p>
+      <div class="paper-links"><a href="{{ post.link }}">Publisher <span aria-hidden="true">↗</span></a><a href="{{ post.paperurl | relative_url }}">PDF <span aria-hidden="true">↓</span></a><a href="{{ post.url | relative_url }}">Details <span aria-hidden="true">→</span></a></div>
+    </div>
+  </article>
+  {% endfor %}
+</div>

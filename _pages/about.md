@@ -1,74 +1,60 @@
 ---
+layout: profile
 permalink: /
 title: "Jiqiao Li"
-author_profile: true
-redirect_from: 
+full_width: true
+redirect_from:
   - /about/
   - /about.html
-
 ---
 
+<section class="shell hero" aria-labelledby="hero-title">
+  <div class="hero-copy">
+    <p class="eyebrow"><span class="status-dot" aria-hidden="true"></span> SRE Infrastructure Engineer · ByteDance / TikTok</p>
+    <h1 id="hero-title">Jiqiao <em>Li.</em></h1>
+    <p class="hero-statement">Reliable systems.<br>Resilient networks.</p>
+    <p class="hero-description">I build infrastructure for large-scale systems at TikTok. My research explores how machine learning can make networks more robust.</p>
+    <div class="hero-actions"><a class="button button-primary" href="#research">Explore my research <span aria-hidden="true">↗</span></a><a class="text-link" href="mailto:{{ site.author.email }}">Say hello <span aria-hidden="true">↗</span></a></div>
+    <div class="hero-socials"><a href="{{ site.author.googlescholar }}">Google Scholar ↗</a><a href="https://github.com/{{ site.author.github }}">GitHub ↗</a><a href="{{ '/cv/' | relative_url }}">Curriculum vitae →</a></div>
+  </div>
+  <figure class="hero-portrait">
+    <div class="portrait-frame"><img src="{{ '/images/JiqiaoLi.png' | relative_url }}" width="572" height="800" alt="Portrait of Jiqiao Li" fetchpriority="high"></div>
+    <figcaption><span>Jiqiao Li</span><span>Beijing, China <span aria-hidden="true">↗</span></span></figcaption>
+    <span class="portrait-note" aria-hidden="true">Curiosity, into practice.</span>
+  </figure>
+</section>
 
+<div class="shell profile-notes">
+  <div><span class="eyebrow">Currently</span><p>Architecture &amp; stability<br><strong>ByteDance / TikTok</strong></p></div>
+  <div><span class="eyebrow">Previously</span><p>Master of Engineering<br><strong>Tianjin University, 2026</strong></p></div>
+  <div><span class="eyebrow">Thinking about</span><p>Reliable infrastructure<br><strong>Agent systems &amp; robust networks</strong></p></div>
+</div>
 
-I am an SRE Infrastructure Engineer at **ByteDance / TikTok** (Pan-Architecture · Stability), where I build infrastructure that keeps large-scale systems reliable. I received my Master's degree from [Tianjin University](https://smartiotlab.net/Home) in June 2026, where I was advised by Prof. [Tie Qiu](https://smartiotlab.net/Team) at the TJU Smart IoT Laboratory. During my studies my research focused on the robust optimization of IoT topologies, and I published as first author in IEEE Transactions on Networking (CCF-A).
+<section class="shell section research-section" id="research" aria-labelledby="research-title">
+  <div class="section-heading"><p class="eyebrow section-number">01 / Research</p><div><h2 id="research-title">Robustness, by design.</h2><p>Self-supervised learning, diffusion models, and topology optimization for the Internet of Things.</p></div><a class="text-link section-link" href="{{ site.author.googlescholar }}">Google Scholar <span aria-hidden="true">↗</span></a></div>
+  {% include profile-publications.html %}
+  <a class="text-link research-all" href="{{ '/publications/' | relative_url }}">View all publications <span aria-hidden="true">→</span></a>
+</section>
 
-My current interests center on **system architecture, architecture stability, high-performance system design, and Agent architecture design**. I enjoy turning hard reliability problems into clean, scalable infrastructure. I'm currently working at TikTok and always happy to connect and exchange ideas — feel free to reach out at [jasql1217@gmail.com](mailto:jasql1217@gmail.com) or on GitHub [@Simon-Li1217](https://github.com/Simon-Li1217).
+<section class="experience-section" id="experience" aria-labelledby="experience-title">
+  <div class="shell section">
+    <div class="section-heading"><p class="eyebrow section-number">02 / Experience</p><div><h2 id="experience-title">Research meets practice.</h2><p>Building systems that hold up in the real world.</p></div></div>
+    <div class="timeline">
+      <article class="experience"><div class="experience-date">Mar 2026 — Present<span class="current-label">Current</span></div><div><h3>ByteDance / TikTok</h3><p class="experience-role">SRE Infrastructure Engineer · Pan-Architecture, Stability</p><p>Working on infrastructure reliability, system architecture, and agent systems.</p><ul class="project-list"><li><strong>DiagPartner</strong><span>An incident-response assistant helping GOC responders align on impact and progress.</span></li><li><strong>Riskhub</strong><span>Proactive inspection and automated reporting to surface major infrastructure risks.</span></li></ul></div></article>
+      <article class="experience"><div class="experience-date">Jul — Sep 2025</div><div><h3>Huawei</h3><p class="experience-role">Intern · ICT Data Communication Product Line</p><p>Agent development in the Data Communication Solutions Department.</p></div></article>
+      <article class="experience"><div class="experience-date">Aug 2022 — Jan 2023</div><div><h3>H3C</h3><p class="experience-role">Java Development Intern · Industrial Internet Research Institute</p><p>Contributed to an Industrial Data Governance Platform serving more than 30 government and enterprise clients.</p></div></article>
+    </div>
+  </div>
+</section>
 
-# Work Experience
-
-- **ByteDance · TikTok Pan-Architecture · Stability — SRE Infrastructure Engineer**  
-  *Mar 2026 – present · Beijing, China*  
-  - **DiagPartner** — an SRE incident-response assistant that helps GOC responders rapidly align on incident impact and progress during emergencies.
-  - **Riskhub** — a proactive inspection system for major risks across TikTok infrastructure, supporting automated monitoring and statistical reporting to surface latent risks and reduce incident rates.
-
-- **Huawei · ICT Data Communication Product Line — Data Communication Solutions Dept. (Intern)**  
-  *Jul 2025 – Sep 2025*  
-  Worked on Agent development within the data communication solutions team.
-
-- **H3C (新华三技术有限公司) — Java Development Intern**  
-  *Aug 2022 – Jan 2023*  
-  Industrial Internet Research Institute. Contributed to an Industrial Data Governance Platform delivering digital solutions for 30+ government and enterprise clients.
-
-# Education
-
-- **M.E., College of Intelligence and Computing, Tianjin University**  
-  *Sep 2023 – Jun 2026*  
-  Research on robust optimization of IoT topologies; first-author publication in IEEE Transactions on Networking (CCF-A).
-
-- **B.Eng., School of Software, Dalian University of Technology (DUT)**  
-  *Sep 2019 – Jun 2023*  
-  Graduated with honors as an Outstanding Graduate of Liaoning Province (Top 1.5%); recipient of multiple scholarships.
-
-# Publications
-
-For the latest publication and citation information, see my [Google Scholar profile]({{ site.author.googlescholar }}).
-
-- **DIFF-TRO: A Self-supervised Diffusion Framework for IoT Topology Robustness Optimization**  
-  **Jiqiao Li**, Ning Chen, Xiaobo Zhou, Tie Qiu.  
-  *IEEE Transactions on Networking (ToN), 2026* — **CCF-A**. ([IEEE](https://ieeexplore.ieee.org/abstract/document/11670548/), [PDF](/files/diff-tro-ton2026.pdf))
-
-- **Self-Supervised Diffusion for Topology Robustness Optimization in Internet of Things**  
-  **Jiqiao Li**, Songwei Zhang, Xiaoshi Song, Xiaobo Zhou, Tie Qiu.  
-  *29th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2026*, pp. 2356–2361 — **CCF-C**. ([IEEE](https://ieeexplore.ieee.org/abstract/document/11582035/), [PDF](/files/cscwd2026.pdf))
-
-- **YOLO-DFT: An object detection method based on cloud data fusion and transfer learning for power system equipment maintenance**  
-  Kai Wang, Xu Zhang, Yifan Sun, Tianyi Xu, **Jiqiao Li**, Song Cao.  
-  *IET Collaborative Intelligent Manufacturing*, 6(2), e12104, 2024. ([DOI](https://doi.org/10.1049/cim2.12104), [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cim2.12104))
-
-# Teaching
-
-- **Teaching Assistant, Advanced Computational Methods** — College of Intelligence and Computing, Tianjin University, Fall 2023
-- **Teaching Assistant, C++ Programming** — School of Software, Dalian University of Technology, Spring 2023
-
-# Service
-
-- **CSCWD 2024** — Host Volunteer
-- **SmartIoT 2023** — Reviewer
-
-# Honors
-
-- **Third Prize**, "Huawei Cup" 21st China Graduate Mathematical Modeling Competition
-- **Second Award**, Graduate Study Scholarship, College of Intelligence and Computing, Tianjin University
-- **Outstanding Graduate** of Liaoning Province (Rank 2/119)
-- **Hisense Scholarship** for Undergraduates
-- **Excellent Student Scholarships** (10 in total), Dalian University of Technology
+<section class="shell section education-section" aria-labelledby="education-title">
+  <div class="section-heading"><p class="eyebrow section-number">03 / Education</p><div><h2 id="education-title">A foundation in curiosity.</h2></div></div>
+  <div class="education-grid">
+    <article><span class="eyebrow">2023 — 2026</span><h3>Tianjin University</h3><p class="education-degree">M.E. · College of Intelligence and Computing</p><p>Robust optimization of IoT topologies at the <a href="https://smartiotlab.net/Home">Smart IoT Laboratory</a>, advised by Prof. <a href="https://smartiotlab.net/Team">Tie Qiu</a>. First-author research in IEEE Transactions on Networking.</p></article>
+    <article><span class="eyebrow">2019 — 2023</span><h3>Dalian University of Technology</h3><p class="education-degree">B.Eng. · School of Software</p><p>Outstanding Graduate of Liaoning Province (Top 1.5%; Rank 2/119), with multiple scholarships.</p></article>
+  </div>
+  <div class="beyond-grid">
+    <div><h3>Recognition</h3><ul><li>Third Prize · “Huawei Cup” 21st China Graduate Mathematical Modeling Competition</li><li>Second Award · Graduate Study Scholarship, Tianjin University</li><li>Hisense Scholarship for Undergraduates</li><li>Excellent Student Scholarships · 10 awards, DUT</li></ul></div>
+    <div><h3>Teaching &amp; service</h3><ul><li>Teaching Assistant · Advanced Computational Methods, TJU, Fall 2023</li><li>Teaching Assistant · C++ Programming, DUT, Spring 2023</li><li>Host Volunteer · CSCWD 2024</li><li>Reviewer · SmartIoT 2023</li></ul></div>
+  </div>
+</section>

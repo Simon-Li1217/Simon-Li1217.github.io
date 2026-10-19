@@ -1,6 +1,9 @@
 ---
 title: "DIFF-TRO: A Self-supervised Diffusion Framework for IoT Topology Robustness Optimization"
 collection: publications
+authors: "Jiqiao Li, Ning Chen, Xiaobo Zhou, Tie Qiu"
+venue_short: "Journal · ToN"
+first_author: true
 category: manuscripts
 permalink: /publication/2026-diff-tro-ton
 excerpt: 'A self-supervised diffusion framework that learns robustness-related structural priors from unlabeled IoT topologies and reconstructs feasible, highly robust networks via a constraint-aware decoding strategy.'

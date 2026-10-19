@@ -1,6 +1,10 @@
 ---
 title: "Self-Supervised Diffusion for Topology Robustness Optimization in Internet of Things"
 collection: publications
+authors: "Jiqiao Li, Songwei Zhang, Xiaoshi Song, Xiaobo Zhou, Tie Qiu"
+venue_short: "Conference · CSCWD"
+publication_details: "pp. 2356–2361"
+first_author: true
 category: conferences
 permalink: /publication/2026-cscwd-diffusion-iot
 excerpt: 'A diffusion-based self-supervised framework combining spatio-temporal embedding-driven diffusion with a constraint-aware edge-attribute decoding strategy to generate geometrically feasible, connected, and highly robust IoT networks.'
