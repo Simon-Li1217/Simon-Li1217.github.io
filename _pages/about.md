@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-I am an SRE Infrastructure Engineer at **ByteDance / TikTok** (Pan-Architecture · Stability), where I build infrastructure that keeps large-scale systems reliable. I received my Master's degree from [Tianjin University](https://smartiotlab.net/Home) in June 2026, where I was advised by Prof. [Tie Qiu](https://smartiotlab.net/Team) at the TJU Smart IoT Laboratory. During my studies my research focused on the robust optimization of IoT topologies, and I published as first author in IEEE/ACM Transactions on Networking (CCF-A).
+I am an SRE Infrastructure Engineer at **ByteDance / TikTok** (Pan-Architecture · Stability), where I build infrastructure that keeps large-scale systems reliable. I received my Master's degree from [Tianjin University](https://smartiotlab.net/Home) in June 2026, where I was advised by Prof. [Tie Qiu](https://smartiotlab.net/Team) at the TJU Smart IoT Laboratory. During my studies my research focused on the robust optimization of IoT topologies, and I published as first author in IEEE Transactions on Networking (CCF-A).
 
 My current interests center on **system architecture, architecture stability, high-performance system design, and Agent architecture design**. I enjoy turning hard reliability problems into clean, scalable infrastructure. I'm currently working at TikTok and always happy to connect and exchange ideas — feel free to reach out at [jasql1217@gmail.com](mailto:jasql1217@gmail.com) or on GitHub [@Simon-Li1217](https://github.com/Simon-Li1217).
 
@@ -33,7 +33,7 @@ My current interests center on **system architecture, architecture stability, hi
 
 - **M.E., College of Intelligence and Computing, Tianjin University**  
   *Sep 2023 – Jun 2026*  
-  Research on robust optimization of IoT topologies; first-author publication in IEEE/ACM Transactions on Networking (CCF-A).
+  Research on robust optimization of IoT topologies; first-author publication in IEEE Transactions on Networking (CCF-A).
 
 - **B.Eng., School of Software, Dalian University of Technology (DUT)**  
   *Sep 2019 – Jun 2023*  
@@ -41,16 +41,19 @@ My current interests center on **system architecture, architecture stability, hi
 
 # Publications
 
+For the latest publication and citation information, see my [Google Scholar profile]({{ site.author.googlescholar }}).
+
 - **DIFF-TRO: A Self-supervised Diffusion Framework for IoT Topology Robustness Optimization**  
-  Jiqiao Li, Ning Chen, Xiaobo Zhou, Tie Qiu.  
-  *IEEE/ACM Transactions on Networking (ToN), 2026* — **CCF-A**. ([PDF](/files/diff-tro-ton2026.pdf))
+  **Jiqiao Li**, Ning Chen, Xiaobo Zhou, Tie Qiu.  
+  *IEEE Transactions on Networking (ToN), 2026* — **CCF-A**. ([IEEE](https://ieeexplore.ieee.org/abstract/document/11670548/), [PDF](/files/diff-tro-ton2026.pdf))
 
 - **Self-Supervised Diffusion for Topology Robustness Optimization in Internet of Things**  
-  Jiqiao Li, Songwei Zhang, Xiaoshi Song, Xiaobo Zhou, Tie Qiu.  
-  *IEEE CSCWD 2026* — **CCF-C**. ([PDF](/files/cscwd2026.pdf))
+  **Jiqiao Li**, Songwei Zhang, Xiaoshi Song, Xiaobo Zhou, Tie Qiu.  
+  *29th International Conference on Computer Supported Cooperative Work in Design (CSCWD), 2026*, pp. 2356–2361 — **CCF-C**. ([IEEE](https://ieeexplore.ieee.org/abstract/document/11582035/), [PDF](/files/cscwd2026.pdf))
 
 - **YOLO-DFT: An object detection method based on cloud data fusion and transfer learning for power system equipment maintenance**  
-  *IET Collaborative Intelligent Manufacturing, 2024.*
+  Kai Wang, Xu Zhang, Yifan Sun, Tianyi Xu, **Jiqiao Li**, Song Cao.  
+  *IET Collaborative Intelligent Manufacturing*, 6(2), e12104, 2024. ([DOI](https://doi.org/10.1049/cim2.12104), [PDF](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/cim2.12104))
 
 # Teaching
 

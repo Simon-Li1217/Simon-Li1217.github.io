@@ -15,7 +15,7 @@ Education
 ======
 * M.E., College of Intelligence and Computing, Tianjin University, 2026
   * Research on robust optimization of IoT topologies (advisor: Prof. Tie Qiu)
-  * First-author publication in IEEE/ACM Transactions on Networking (CCF-A)
+  * First-author publication in IEEE Transactions on Networking (CCF-A)
 * B.Eng. in Software Engineering, Dalian University of Technology (DUT), 2023
   * Outstanding Graduate of Liaoning Province (Top 1.5%)
 
